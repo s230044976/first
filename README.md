@@ -1,3 +1,4 @@
+# Bill calculator 
 Purpose of the project: This project calculates how to break down a given amount into specific bill denominations
 (e.g., 500, 100, 50, etc.). It helps users determine the number of bills needed for a given total.
 verison or date: 26/9/2024
